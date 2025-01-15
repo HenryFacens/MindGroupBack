@@ -28,8 +28,8 @@ Antes de começar, certifique-se de ter os seguintes itens instalados:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/HenryFacens/MindGroup-Backend.git
-cd MindGroup-Backend
+git clone https://github.com/HenryFacens/MindGroupBack.git
+cd MindGroupBack
 ```
 
 ### 2. Instale as dependencias
